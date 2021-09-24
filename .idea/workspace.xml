@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="497bb43e-ba01-488c-a91d-3ef537f0eabf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/EditExtension" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\smmo_\IdeaProjects\EditExtension\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ySAQg6lIUGzCzEX6dmAyJa9X6h" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="EditExtension" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="1st commit" />
+    <MESSAGE value="2nd commit" />
+    <MESSAGE value="3rd commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="3rd commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="182" y="117" key="CommitChangelistDialog2" timestamp="1632497211554">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="182" y="117" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1632497211554" />
+    <state width="1010" height="279" key="GridCell.Tab.0.bottom" timestamp="1632236950392">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1010" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1632236950392" />
+    <state width="1010" height="279" key="GridCell.Tab.0.center" timestamp="1632236950392">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1010" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1632236950392" />
+    <state width="1010" height="279" key="GridCell.Tab.0.left" timestamp="1632236950392">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1010" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1632236950392" />
+    <state width="1010" height="279" key="GridCell.Tab.0.right" timestamp="1632236950392">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1010" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1632236950392" />
+    <state x="36" y="163" key="SettingsEditor" timestamp="1632498907177">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="36" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1632498907177" />
+    <state x="127" y="254" key="Vcs.Push.Dialog.v2" timestamp="1632497231073">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="127" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1632497231073" />
+  </component>
+</project>
